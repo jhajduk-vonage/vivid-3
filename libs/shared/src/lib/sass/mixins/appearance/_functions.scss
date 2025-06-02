@@ -1,4 +1,0 @@
-@function get-appearance-token($type) {
-	$prefix: --_appearance-color;
-	@return #{$prefix}-#{$type};
-}
